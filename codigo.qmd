@@ -1,0 +1,109 @@
+---
+title: "Carolina Herrera"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+---
+
+<!-- ===== Hero/Header with Headshot ===== -->
+<div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 2rem;">
+  <img src="headshot.jpg" alt="Carolina Herrera" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
+  
+
+    Marketing and Communications Specialist
+   
+      📍 Burnaby, B.C | 💼[LinkedIn](https://www.linkedin.com/in/carolina-herrera-mendoza)
+      
+
+
+
+</div>
+
+---
+
+
+# 👋 About Me
+
+I'm Carolina Herrera, and the phrase that best defines me is: "Make things happen."
+
+I am a determined and results-oriented professional who focuses all my efforts on efficiently achieving goals. I have a great ability to lead teams, guiding them toward excellence and success. I am a good listener, which allows me to thoroughly understand the expectations of individuals, teams, and companies, enabling me to design effective, relevant, and strategic solutions.
+
+With a curious, motivated, and creative mindset, I specialize in retail marketing, event coordination, and customer loyalty. I aspire to lead innovative marketing strategies that generate a lasting impact on both companies and consumers, and I aspire to achieve a senior leadership position where I can advise teams, develop high-impact campaigns, create meaningful brand experiences, and support personal growth.
+
+
+---
+
+# 🎓 Education
+
+
+**University Canada West – Vancouver, BC** | April 2024 – June 2025  
+*Candidate Master of Business Administration.*
+
+**Universidad Libre – Bogotá** | July 2017 – October 2018  
+*Specialist in Marketing Management and Sales Strategy.*
+
+**Universidad Jorge Tadeo Lozano – Bogotá** | January 2010 – September 2013  
+*Bachelor’s degree in Advertising and Certification in Marketing Communications by the IAA.*
+
+
+
+---
+
+# 💼 Professional Experience
+
+**Meinhardt Fine Foods, Vancouver, BC** | March 2024 – Present  
+*Customer Service Associate (part-time)*  
+- Deliver exceptional customer service in a fast-paced environment, ensuring a positive and engaging experience for every customer. Adapt quickly to high-demand situations, staying professional and solution-oriented to enhance customer satisfaction and drive business success.
+
+**Grupo Exito (Retail), Bogota, Colombia** | March 2019 – October 2023  
+*Communications and Marketing Coordinator*  
+- Develop, implement and manage communication strategies through digital and traditional channels such as social media, email, blogs, TV commercials, Google Ads and printed formats like posters, flyers and catalogues.  
+- Compose and design diverse internal and external communications material through graphic design software like Adobe Illustrator, Photoshop, Canva and PowerPoint.  
+- Plan, create and manage social media content based on the social media calendar, analyze metrics to enhance results, as well as respond to inquiries and build conversations with online audiences to enhance brand reputation.  
+- Manage and develop website content, keeping it updated and relevant, and permanently measure online metrics to identify insights and address opportunities.  
+- Planned and executed communication strategies for online and in-person events, including fair trades, conventions, trainings, webinars, Facebook Lives, product launches, and store openings.  
+- Developed segmented communication campaigns (email, SMS, WhatsApp), ensuring proper handling of customer data and adherence to privacy regulations.  
+
+**DICOL LTDA (Retail), Bogota, Colombia** | February 2016 – February 2019  
+*Marketing and Communications Coordinator*  
+- Create and launch marketing campaigns and communication strategies through digital and traditional promotional channels to enhance brand visibility, including social media, website, brochures, catalogues, merchandising assets, and displays.  
+- Design, manage and keep up-to-date the company WordPress website and other digital channels (social media and WhatsApp) according to brand identity and business values while keeping fresh and innovative processes.  
+- Develop and execute communication strategies for in-person events and technical training sessions for clients and customers. Coordinate logistics and venues, make PowerPoint presentations and provide on-site support to ensure strong customer reception and engagement before, during and after the event.  
+
+
+---
+
+# 💡 Key Skills
+
+- Development of communication strategies  
+- Content and communication materials creation  
+- Social media management (Facebook, Instagram, YouTube)  
+- Digital marketing strategies  
+- Website management (WordPress)  
+- Graphic design (Canva, Illustrator, Photoshop)  
+- Microsoft Office (Word, PowerPoint, Excel)  
+- Event and project coordination  
+- Analytics (Google and social media)  
+- Highly organized and detail-oriented  
+- Positive and enthusiastic attitude  
+- Excellent communication  
+- Adaptable and proactive  
+- Multitasking and prioritization  
+- Creativity and problem-solving  
+- Autonomous and team-oriented  
+
+
+---
+
+# 📞 Contact
+
+📧 [cherreram92@gmail.com](mailto:cherreram92@gmail.com)  
+🔗 [LinkedIn](www.linkedin.com/in/carolina-herrera-mendoza)  
+🌐 [yourwebsite.com](https://yourwebsite.com)
+
+---
+
+*Built with [Quarto](https://quarto.org/) 💡*
