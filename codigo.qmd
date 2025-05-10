@@ -3,10 +3,25 @@ title: "Carolina Herrera"
 format:
   html:
     theme: cosmo
-    css: carolina-portfolio-site/css/styles.css
+    css: css/styles.css
     toc: false
     page-layout: full
 ---
+
+<!-- ===== Hero/Navigation bar ===== -->
+
+  <nav class="navbar">
+    <div class="navbar-logo">
+      <img src="images/logo.png" alt="Logo">
+    </div>
+    <ul class="navbar-menu">
+      <li><a href="#" class="active">Profile</a></li>
+      <li><a href="#">Projects</a></li>
+      <li><a href="#">Education</a></li>
+      <li><a href="#">Research</a></li>
+      <li><a href="#">Service</a></li>
+    </ul>
+  </nav>
 
 <!-- ===== Hero/Header with Headshot ===== -->
 <div class="level1" style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 2rem;">
