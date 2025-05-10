@@ -3,14 +3,14 @@ title: "Carolina Herrera"
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: carolina-portfolio-site/css/styles.css
     toc: false
     page-layout: full
 ---
 
 <!-- ===== Hero/Header with Headshot ===== -->
-<div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 2rem;">
-  <img src="headshot.jpg" alt="Carolina Herrera" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
+<div class="level1" style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 2rem;">
+  <img src="carolina-portfolio-site/images/headshot.jpg" alt="Carolina Herrera" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
   
 
     Marketing and Communications Specialist
