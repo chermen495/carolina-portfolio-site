@@ -1,0 +1,34 @@
+---
+title: "About"
+---
+
+
+<!-- ===== Hero/Header with Headshot ===== -->
+<div class="level1" style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 2rem;">
+  <img src="images/headshot.jpg" alt="Carolina Herrera" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
+  
+
+# Carolina Herrera M.
+
+  Marketing and Communications Specialist
+   
+📍 Burnaby, B.C | 💼[LinkedIn](https://www.linkedin.com/in/carolina-herrera-mendoza)
+      
+
+
+
+</div>
+
+---
+
+## 👋 About me {#about-me}
+
+I'm Carolina Herrera, and the phrase that best defines me is: "I make things happen."
+
+I am a determined and results-oriented professional who focuses all my efforts on efficiently achieving goals. I have a great ability to lead teams, guiding them toward excellence and success. I am a good listener, which allows me to thoroughly understand the expectations of individuals, teams, and companies, enabling me to design effective, relevant, and strategic solutions.
+
+With a curious, motivated, and creative mindset, I specialize in retail marketing, event coordination, and customer loyalty. I aspire to lead innovative marketing strategies that generate a lasting impact on both companies and consumers, and I aspire to achieve a senior leadership position where I can advise teams, develop high-impact campaigns, create meaningful brand experiences, and support personal growth. <br><br><br><br>
+
+
+---
+

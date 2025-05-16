@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Portfolio"
+  navbar:
+    left:
+      - text: About me
+        href: about.qmd
+      - text: Education
+        href: education.qmd
+      - text: Experience
+        href: experience.qmd
+      - text: Skills
+        href: skills.qmd
+      - text: Contact
+        href: contact.qmd
+
+format:
+  html:
+    css: css/styles.css
+    template: components/template.html # Aquí aplicas la plantilla personalizada
+    include-before-body: components/header.html
+    include-after-body: components/footer.html

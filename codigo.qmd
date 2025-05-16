@@ -1,11 +1,5 @@
 ---
 title: "Portafolio"
-format:
-  html:
-    theme: cosmo
-    css: css/styles.css
-    toc: false
-    page-layout: full
 ---
 <!-- ===== Hero/Navigation bar ===== -->
 <div>
@@ -14,11 +8,13 @@ format:
       <img src="images/logo.png" alt="Logo">
   </div>
   <ul class="navbar-menu">
-    <li><a href="#" class="active">Profile</a></li>
-    <li><a href="#">Education</a></li>
-    <li><a href="#">Experience</a></li>
-    <li><a href="#">Skills</a></li>
-    <li><a href="#">Contact</a></li>
+  <li><a href="#about-me" class="active">About me</a></li>
+  <li><a href="#education">Education</a></li>
+  <li><a href="#experience">Experience</a></li>
+  <li><a href="#skills">Skills</a></li>
+  <li><a href="#contact">Contact</a></li>
+</ul>
+
   </ul>
 </nav>
 </div>
@@ -43,19 +39,18 @@ format:
 
 ---
 
-
-# 👋 About Me
+## 👋 About me {#about-me}
 
 I'm Carolina Herrera, and the phrase that best defines me is: "I make things happen."
 
 I am a determined and results-oriented professional who focuses all my efforts on efficiently achieving goals. I have a great ability to lead teams, guiding them toward excellence and success. I am a good listener, which allows me to thoroughly understand the expectations of individuals, teams, and companies, enabling me to design effective, relevant, and strategic solutions.
 
-With a curious, motivated, and creative mindset, I specialize in retail marketing, event coordination, and customer loyalty. I aspire to lead innovative marketing strategies that generate a lasting impact on both companies and consumers, and I aspire to achieve a senior leadership position where I can advise teams, develop high-impact campaigns, create meaningful brand experiences, and support personal growth.
+With a curious, motivated, and creative mindset, I specialize in retail marketing, event coordination, and customer loyalty. I aspire to lead innovative marketing strategies that generate a lasting impact on both companies and consumers, and I aspire to achieve a senior leadership position where I can advise teams, develop high-impact campaigns, create meaningful brand experiences, and support personal growth. <br><br><br><br>
 
 
 ---
 
-# 🎓 Education
+## 🎓Education {#education}
 
 
 **University Canada West – Vancouver, BC** | April 2024 – June 2025  
@@ -65,13 +60,12 @@ With a curious, motivated, and creative mindset, I specialize in retail marketin
 *Specialist in Marketing Management and Sales Strategy.*
 
 **Universidad Jorge Tadeo Lozano – Bogotá** | January 2010 – September 2013  
-*Bachelor’s degree in Advertising and Certification in Marketing Communications by the IAA.*
-
+*Bachelor’s degree in Advertising and Certification in Marketing Communications by the IAA.* <br><br><br><br>
 
 
 ---
 
-# 💼 Professional Experience
+## 💼 Professional Experience {#experience}
 
 **Meinhardt Fine Foods, Vancouver, BC** | March 2024 – Present  
 *Customer Service Associate (part-time)*  
@@ -93,12 +87,12 @@ With a curious, motivated, and creative mindset, I specialize in retail marketin
 
 - Create and launch marketing campaigns and communication strategies through digital and traditional promotional channels to enhance brand visibility, including social media, website, brochures, catalogues, merchandising assets, and displays.  
 - Design, manage and keep up-to-date the company WordPress website and other digital channels (social media and WhatsApp) according to brand identity and business values while keeping fresh and innovative processes.  
-- Develop and execute communication strategies for in-person events and technical training sessions for clients and customers. Coordinate logistics and venues, make PowerPoint presentations and provide on-site support to ensure strong customer reception and engagement before, during and after the event.  
+- Develop and execute communication strategies for in-person events and technical training sessions for clients and customers. Coordinate logistics and venues, make PowerPoint presentations and provide on-site support to ensure strong customer reception and engagement before, during and after the event. <br><br><br><br> 
 
 
 ---
 
-# 💡 Key Skills
+## 💡 Key Skills {#skills}
 
 - Development of communication strategies  
 - Content and communication materials creation  
@@ -115,12 +109,12 @@ With a curious, motivated, and creative mindset, I specialize in retail marketin
 - Adaptable and proactive  
 - Multitasking and prioritization  
 - Creativity and problem-solving  
-- Autonomous and team-oriented  
+- Autonomous and team-oriented  <br><br><br><br>
 
 
 ---
 
-# 📞 Contact
+## 📞 Contact {#contact}
 
 📧 [cherreram92@gmail.com](mailto:cherreram92@gmail.com)  
 🔗 [LinkedIn](www.linkedin.com/in/carolina-herrera-mendoza)  
