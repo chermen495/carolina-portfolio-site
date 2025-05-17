@@ -2,10 +2,6 @@
 title: "Skills"
 ---
 
-
-
----
-
 ## 💡 Key Skills {#skills}
 
 | **Technical & Professional Skills**                               | **Soft & Interpersonal Skills**              |
